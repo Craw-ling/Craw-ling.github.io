@@ -1,4 +1,4 @@
-const API_KEY = "%API_KEY%"
+const API_KEY = "e8352b929be22942dc63f8eb83c9c6a6"
 const weatherText = document.querySelector("#weahter");
 
 function onGeoOK(position) {
